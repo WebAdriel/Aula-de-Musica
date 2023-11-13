@@ -1,0 +1,14 @@
+body{
+    background-image: url("../img/Video\ Aula.jpg");
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}
